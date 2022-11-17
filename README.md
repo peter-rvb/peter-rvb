@@ -1,6 +1,6 @@
 ### Hey, I'm Peter 👋
 
-I'm an Enterprise Architect @Workday based in London. I have a keen interest in building apps to automate business processes. I'm continually looking to improve my coding skillset with a focus on JavaScript and React. 
+I'm an Enterprise Architect @Workday based in London. I have a keen interest in building apps to automate business processes. I'm continually looking to improve my coding skillset with a focus in JavaScript and React. 
 
 - 🔭 I’m currently working on building apps in Workday Extend
 - 🌱 I’m currently learning React
